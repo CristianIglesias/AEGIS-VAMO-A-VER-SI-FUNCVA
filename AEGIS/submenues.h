@@ -76,7 +76,7 @@ bool salir=false;
         case 0:
         {
                    system("cls");
-                   cout<<"TOQUE ENTER PARA VOLVER AL MENU PRINCIPAL"<<endl;
+                   cout<<"TOQUeme esta PARA VOLVER AL MENU PRINCIPAL"<<endl;
              salir=true;
 
         }
