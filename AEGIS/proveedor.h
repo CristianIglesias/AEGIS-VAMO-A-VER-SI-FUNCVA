@@ -11,6 +11,13 @@ public:
     //metodos;
      void cargar();
      void mostrar():
+        int getNumeroProveedor(){return  NumeroProveedor}
+        float getPorcentajeRentabilidad(){return PorcentajeRentabilidad}
+        float getEstadoCuenta(){return EstadoCuenta}
+        void setNumeroProveedor(int num){NumeroProveedor=num;}
+        void setPorcentajeRentabilidad(float porcentaje){PorcentajeRentabilidad=porcentaje;}
+        void setEstadoCuenta(float cuenta){EstadoCuenta=cuenta;}
+
 };
 
 
