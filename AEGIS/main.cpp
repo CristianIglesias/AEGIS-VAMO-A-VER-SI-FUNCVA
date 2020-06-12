@@ -15,7 +15,7 @@ int main()
     {
         system("cls");
          cout<<"                     *********                         "<<endl;
-        cout<<"                     *  AEGIS  tomi gato *                         "<<endl;
+        cout<<"                     *  AEGIS   *                         "<<endl;
          cout<<"                     *********                         "<<endl;
         cout<<"-->Presione la tecla enter para ingresar al menu de opciones                         "<<endl;
         cin.get();
