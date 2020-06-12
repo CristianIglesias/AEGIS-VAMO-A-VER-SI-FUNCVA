@@ -76,7 +76,7 @@ bool salir=false;
         case 0:
         {
                    system("cls");
-                   cout<<"TOQUE PARA QUE EL COLO NO SEA YETA"<<endl;
+                   cout<<"TOQUE PARA VOLVER AL MENU"<<endl;
              salir=true;
 
         }

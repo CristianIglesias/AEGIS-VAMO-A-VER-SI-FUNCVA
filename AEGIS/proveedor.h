@@ -11,7 +11,7 @@ public:
     //metodos;
      void cargar();
      void mostrar():
-};///putoelquelee
+};
 
 
 #endif // PROVEEDOR_H_INCLUDED
